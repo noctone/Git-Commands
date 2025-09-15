@@ -1,4 +1,4 @@
-# Git Practice Log – [Date]
+# Git Practice Log – [15th Sep 2025]
 
 ## Overview
 Today, I practiced essential Git operations to strengthen my workflow and build confidence with live repositories. The focus was on basic staging, committing, amending, branching, and safely pushing changes.
